@@ -1,0 +1,22 @@
+<resources>
+    <string-array name="unidades_byte_MJCS">
+        <item>byte</item>
+        <item>kilobyte (Kb)</item>
+        <item>megabyte (MB)</item>
+        <item>gigabyte (GB)</item>
+        <item>terabyte (TB)</item>
+        <item>petabyte (PB)</item>
+        <item>exabyte (EB)</item>
+        <item>zetabyte (ZB)</item>
+        <item>yottabyte (YB)</item>
+        <item>brontobyte (BB)</item>
+        <item>geopbyte (GB)</item>
+    </string-array>
+
+    <string name="app_name">Conversor de Bytes</string>
+    <string name="hint_quantity">Cantidad</string>
+    <string name="convert_origin_to_dest">Convertir de origen a destino</string>
+    <string name="convert_dest_to_origin">Convertir de destino a origen</string>
+    <string name="result">Resultado</string>
+    <string name="image_description">Descripción</string>
+</resources>
